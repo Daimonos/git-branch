@@ -8,11 +8,17 @@ For instance - we have two project streams: project1 and project2.
 There will be a specific development branch for both project1 and project2 each accepting their own PRs
 
 Master            -------------------------------------------------------------------------------------- 
+
 Development       --------------------------------------------------------------------------------------
+
 Project1          --------------------------------------------------------------------------------------
+
 Project1/feature1 --------------------------------------------------------------------------------------
+
 Project2          --------------------------------------------------------------------------------------
+
 Project2/feature2 --------------------------------------------------------------------------------------
+
 
 Merges into master will be controlled by the technicalleads from the Project streams
 
